@@ -1,0 +1,1 @@
+{"name":"test-pii","title":"Test PII","description":"","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":"Lintol","web":"https://lintol.io"}],"resources":[{"name":"pii.csv","mediatype":"text/csv","description":"pii.csv","path":"data/pii-csv.csv"}]}
